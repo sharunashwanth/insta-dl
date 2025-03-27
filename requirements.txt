@@ -1,0 +1,4 @@
+gallery-dl
+Pillow
+requests
+yt-dlp
